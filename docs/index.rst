@@ -9,7 +9,6 @@ Screen-Pass Documentation
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
    Intro
 
 Indices and tables
