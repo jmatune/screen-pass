@@ -10,9 +10,11 @@ Screen-Pass Documentation
    :maxdepth: 2
    :caption: Contents:
    Intro
+   Tutorials
+   Technical References
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
