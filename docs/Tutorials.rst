@@ -1,6 +1,6 @@
-############
+#########
 Tutorials
-############
+#########
 
 Use cases and examples for using screen-pass.
 
