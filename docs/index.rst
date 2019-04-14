@@ -6,9 +6,11 @@
 Screen-Pass Documentation
 =======================================
 
+Contents
+--------
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
    Intro
    Tutorials
    Technical References
