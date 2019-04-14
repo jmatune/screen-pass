@@ -11,10 +11,6 @@ Screen-Pass Documentation
    :caption: Contents:
 
    Intro
-   Tutorials
-   Technical References
-
-
 
 Indices and tables
 ==================

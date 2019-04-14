@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .mp4
+_build
+_static
+_templates
